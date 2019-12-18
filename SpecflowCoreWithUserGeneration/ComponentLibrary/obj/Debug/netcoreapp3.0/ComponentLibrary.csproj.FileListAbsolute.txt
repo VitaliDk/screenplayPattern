@@ -1,0 +1,8 @@
+C:\Users\danialk\Desktop\SpecflowCore\ComponentLibrary\bin\Debug\netcoreapp3.0\ComponentLibrary.deps.json
+C:\Users\danialk\Desktop\SpecflowCore\ComponentLibrary\bin\Debug\netcoreapp3.0\ComponentLibrary.dll
+C:\Users\danialk\Desktop\SpecflowCore\ComponentLibrary\bin\Debug\netcoreapp3.0\ComponentLibrary.pdb
+C:\Users\danialk\Desktop\SpecflowCore\ComponentLibrary\obj\Debug\netcoreapp3.0\ComponentLibrary.csprojAssemblyReference.cache
+C:\Users\danialk\Desktop\SpecflowCore\ComponentLibrary\obj\Debug\netcoreapp3.0\ComponentLibrary.AssemblyInfoInputs.cache
+C:\Users\danialk\Desktop\SpecflowCore\ComponentLibrary\obj\Debug\netcoreapp3.0\ComponentLibrary.AssemblyInfo.cs
+C:\Users\danialk\Desktop\SpecflowCore\ComponentLibrary\obj\Debug\netcoreapp3.0\ComponentLibrary.dll
+C:\Users\danialk\Desktop\SpecflowCore\ComponentLibrary\obj\Debug\netcoreapp3.0\ComponentLibrary.pdb

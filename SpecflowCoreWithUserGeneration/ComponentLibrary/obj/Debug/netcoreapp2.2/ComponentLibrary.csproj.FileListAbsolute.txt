@@ -1,0 +1,17 @@
+C:\Users\danialk\Desktop\SpecflowCore\ComponentLibrary\bin\Debug\netcoreapp2.2\ComponentLibrary.deps.json
+C:\Users\danialk\Desktop\SpecflowCore\ComponentLibrary\bin\Debug\netcoreapp2.2\ComponentLibrary.dll
+C:\Users\danialk\Desktop\SpecflowCore\ComponentLibrary\bin\Debug\netcoreapp2.2\ComponentLibrary.pdb
+C:\Users\danialk\Desktop\SpecflowCore\ComponentLibrary\obj\Debug\netcoreapp2.2\ComponentLibrary.AssemblyInfoInputs.cache
+C:\Users\danialk\Desktop\SpecflowCore\ComponentLibrary\obj\Debug\netcoreapp2.2\ComponentLibrary.AssemblyInfo.cs
+C:\Users\danialk\Desktop\SpecflowCore\ComponentLibrary\obj\Debug\netcoreapp2.2\ComponentLibrary.dll
+C:\Users\danialk\Desktop\SpecflowCore\ComponentLibrary\obj\Debug\netcoreapp2.2\ComponentLibrary.pdb
+C:\Users\danialk\Desktop\SpecflowCore\ComponentLibrary\obj\Debug\netcoreapp2.2\ComponentLibrary.csprojAssemblyReference.cache
+C:\Users\danialk\Desktop\SpecflowCoreWithUserGeneration\ComponentLibrary\bin\Debug\netcoreapp2.2\NLog.config
+C:\Users\danialk\Desktop\SpecflowCoreWithUserGeneration\ComponentLibrary\bin\Debug\netcoreapp2.2\ComponentLibrary.deps.json
+C:\Users\danialk\Desktop\SpecflowCoreWithUserGeneration\ComponentLibrary\bin\Debug\netcoreapp2.2\ComponentLibrary.dll
+C:\Users\danialk\Desktop\SpecflowCoreWithUserGeneration\ComponentLibrary\bin\Debug\netcoreapp2.2\ComponentLibrary.pdb
+C:\Users\danialk\Desktop\SpecflowCoreWithUserGeneration\ComponentLibrary\obj\Debug\netcoreapp2.2\ComponentLibrary.AssemblyInfoInputs.cache
+C:\Users\danialk\Desktop\SpecflowCoreWithUserGeneration\ComponentLibrary\obj\Debug\netcoreapp2.2\ComponentLibrary.AssemblyInfo.cs
+C:\Users\danialk\Desktop\SpecflowCoreWithUserGeneration\ComponentLibrary\obj\Debug\netcoreapp2.2\ComponentLibrary.dll
+C:\Users\danialk\Desktop\SpecflowCoreWithUserGeneration\ComponentLibrary\obj\Debug\netcoreapp2.2\ComponentLibrary.pdb
+C:\Users\danialk\Desktop\SpecflowCoreWithUserGeneration\ComponentLibrary\obj\Debug\netcoreapp2.2\ComponentLibrary.csprojAssemblyReference.cache
